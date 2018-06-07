@@ -1,0 +1,24 @@
+{
+  "name": "wechat-mgtv",
+  "version": "1.0.0",
+  "description": "wechat-mgtv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nohup web-static-server -d data/ &"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.0.5",
+    "web-static-server": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubcarl/wechat-mgtv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubcarl/wechat-mgtv/issues"
+  },
+  "homepage": "https://github.com/hubcarl/wechat-mgtv#readme"
+}

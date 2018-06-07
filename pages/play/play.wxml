@@ -1,0 +1,5 @@
+<view class="play">
+    <video src="http://202.197.224.44:8060/test_4.mp4" binderror=""></video>
+    <view class="videoName v">{{name}}</view>
+    <view class="videoDesc v v2">牵扯版权问题,视频接口暂时没有,你懂得~</view>
+</view>
